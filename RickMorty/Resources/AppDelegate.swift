@@ -3,7 +3,7 @@
 //  RickMorty
 //
 //  Created by huohong on 2023/1/1.
-//
+// git :AfrazCodes/RickAndMortyiOSApp   https://github.com/monk-h/RickMortyiOSApp
 
 import UIKit
 
